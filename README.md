@@ -119,19 +119,4 @@ frontend development and browser-based audio functionality.
 
 ---
 
-## 🧠 Currently Learning
 
-```text
-Python
-   ↓
-Data Structures & Algorithms
-   ↓
-Backend Development
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-LLMs & Generative AI
-   ↓
-AI-Powered Applications
